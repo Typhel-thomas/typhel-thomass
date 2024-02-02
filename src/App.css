@@ -1,0 +1,59 @@
+.lay1 {
+  width: 375px;
+  height: 44px;
+  margin-top: 10px;
+}
+.lay2 {
+  background-size: 0em;
+  width: 327px;
+  height: 56px;
+  margin-top: 64px;
+  margin-left: 24px;
+  justify-content: space-between;
+  size: 0em;
+}
+.lay4{
+  width: 327px;
+  height: 138px;
+  padding: 20px;
+  text-size-adjust: inherit;
+  background-size: cover;
+  background-color: aqua;
+  border-radius: 20px;
+  border-color: aqua;
+  display: flex;
+  text-align: center;
+  size: 23px;
+  text-size-adjust: 50px;
+}
+.but {
+  width: 30px;
+  height: 60px;
+  background-color: antiquewhite;
+  border-radius: 0em;
+  display: contents;
+  align-content: center;
+  color: blue;
+  margin-top: 60%;
+  margin-left: 0%;
+}
+.but {
+  width: 30px;
+  height: 60px;
+  margin-top: 60%;
+  margin-left: 40%;
+}
+.lay7 {
+  width: 97px;
+  height: 18px;
+  border-radius: 0em;
+  border-color: aqua;
+  border-radius: 0px;
+}
+.lay8 {
+  width: 327px;
+  height: 148px;
+  border-radius: 12px;
+  border-color: aqua;
+}
+  
